@@ -18,8 +18,6 @@ with a different set of people. I am fine with doing a hike twice, but there's
 got to be something else in there to add to the adventure -- Clouds Rest here we
 go!
 
-<!-- more -->
-
 ## Preparation
 
 We arrived at Yosemite on Friday night around 11, pitched tents, and fell
