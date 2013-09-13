@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: static
 title: About
 permalink: /about/index.html
 ---

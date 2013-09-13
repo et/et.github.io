@@ -134,7 +134,7 @@ ul.posts span {
   padding: 0 .4em;
 }
 
-.post ul, .post ol {
+.post ul, .post ol, .static ul, .static ol {
   margin-left: 1.35em;
 }
 

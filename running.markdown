@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: static
 title: Running
 permalink: /running/index.html
 ---
