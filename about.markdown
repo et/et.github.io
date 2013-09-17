@@ -4,4 +4,4 @@ title: About
 permalink: /about/index.html
 ---
 
-Just a blog about thinks that make me twinkle.
+A blog about food, coding, nomadic adventures, and everything else I enjoy.
