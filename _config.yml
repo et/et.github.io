@@ -1,3 +1,5 @@
 name: Eric's thoughts
+description: A blog about nothing.
+url: http://elmthomas.com
 markdown: redcarpet
 pygments: true
