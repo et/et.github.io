@@ -45,5 +45,9 @@
           </div>
         </div> <!-- /container -->
 
+        {% for script in page.scripts %}
+          <script src="{{ script }}" charset="utf-8"></script>
+        {% endfor %}
+
     </body>
 </html>
