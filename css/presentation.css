@@ -7283,3 +7283,17 @@ code {
 ul {
   list-style-position: inside;
 }
+
+/* line 43, ../_scss/presentation.scss */
+figure {
+  display: inline-block;
+}
+/* line 45, ../_scss/presentation.scss */
+figure figcaption {
+  position: absolute;
+  bottom: 50px;
+  left: 20px;
+  padding: 10px 14px;
+  background-color: rgba(0, 0, 0, 0.7);
+  text-align: center;
+}

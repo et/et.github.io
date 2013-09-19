@@ -39,3 +39,15 @@ code {
 ul {
   list-style-position: inside;
 }
+
+figure {
+  display: inline-block;
+  figcaption {
+    position: absolute;
+    bottom: 50px;
+    left: 20px;
+    padding: 10px 14px;
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+  }
+}
