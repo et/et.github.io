@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    {{ content }}
+
+    {% for script in page.scripts %}
+      <script src="{{ script }}" charset="utf-8"></script>
+    {% endfor %}
+  </body>
+</html>
