@@ -1,3 +1,9 @@
+@import "settings";
+@import "normalize";
+@import "foundation";
+// @import "compass/layout.scss";
+// @include sticky-footer(150px, "#content", "#content-footer", "#footer");
+
 header {
   padding: 30px;
 
