@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Setting Up Rails With Postgres on Fedora"
+title:  "Setting Up Rails With PostgreSQL on Fedora"
 date:   2011-10-28 10:51
-categories: Programming Rails Postgres Fedora
+categories: Programming Rails PostgreSQL Fedora
 ---
 
 I always forget the complicated setup to get postgres running.
