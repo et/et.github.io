@@ -7217,6 +7217,31 @@ a.th {
   max-width: 800px;
 }
 
+/* line 10, ../../../.rvm/gems/ruby-2.0.0-p0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/layout/_sticky-footer.scss */
+html, body {
+  height: 100%;
+}
+
+/* line 12, ../../../.rvm/gems/ruby-2.0.0-p0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/layout/_sticky-footer.scss */
+#content {
+  clear: both;
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin-bottom: -17em;
+}
+/* line 18, ../../../.rvm/gems/ruby-2.0.0-p0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/layout/_sticky-footer.scss */
+#content #content-footer {
+  height: 17em;
+}
+
+/* line 20, ../../../.rvm/gems/ruby-2.0.0-p0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/layout/_sticky-footer.scss */
+#footer {
+  clear: both;
+  position: relative;
+  height: 17em;
+}
+
 /* line 7, ../_scss/presentation.scss */
 header {
   padding: 30px;
