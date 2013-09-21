@@ -88,9 +88,9 @@ Oh and if you're lucky, a trail crew will grace you with friendly **stepping sto
 
 ## Credits
 
-I volunteered with the resolute, yet greatly underpaid, [ACE][1] crew under the guidance of a PCT coordinator this past August to complete this project. We finished just under ten days without the support of stock. Meaning we had to hike all of packs, food, and tools into the worksite and perform our own resupplies.
+I volunteered with the resolute, yet greatly underpaid, [ACE][1] crew under the guidance of a PCT coordinator to complete this project. We finished just under ten days without the support of stock. Meaning we had to hike all of packs, food, and tools into the worksite and perform our own resupplies.
 
-There's no doubt about it. Trail work is hard. The people that do it for a living need pats on their backs. If you're ever out hiking and see a trail crew, be sure to thank them. Remember that you probably wouldn't have gotten to where you are without them.
+There's no doubt about it. Trail work is hard. The people that do it for a living need pats on their backs. If you're ever out hiking and see a trail crew, be sure to thank them. They're the invisible warriors who make our outdoor experience so memborable.
 
 [![Meiss Meadows trail crew](http://farm6.staticflickr.com/5510/9792879713_3e7859edaa_c.jpg "Meiss Meadows trail crew")](http://www.flickr.com/photos/95201160@N04/9792879713/in/set-72157635600728713)
 
