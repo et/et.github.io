@@ -18,13 +18,13 @@ The first step is simple, use a pick tool ([pulaskis][1] are great for their wid
 
 [![New tread](http://farm6.staticflickr.com/5522/9235104525_7f5cc9571a.jpg "New tread")](http://www.flickr.com/photos/95201160@N04/9235104525/in/set-72157634544027816)
 
-When a trail cycles around an incline, ensuring the terrain stays flat is tough but a crucial task. If the trail goes up or down, switchbacks are key to the making the hiking less strenuous and safe.
+When a trail cycles around an incline, ensuring the terrain stays flat is a tough but crucial task. If the trail goes up or down, switchbacks are key to the making the hiking less strenuous and safe.
 
 Side note: cutting a switchback causes erosion (the trail edge breaks off) and will give you bad karma. Don't be that guy.
 
 ## Step 2: Ensuring longevity
 
-What's the point of a random line of rocks that forces people to step over? That's a [waterbar][2]. Used for draining water off the trail, waterbars can be created out of rocks (most reliable) or when none are available, a fresh fallen log. If a log is used, its bark is stripped before being used. The waterbar is set at a diagonal ditch on sloped terrain. Smaller rocks are set around it to ensure it won't move or slip when stepped on. A drainage is dug before it and diverts off the trail to guarantee no standing water.
+What's the point of a random line of rocks that forces people to step over? That's a [waterbar][2]. Used for draining water off the trail, waterbars can be created out of rocks (most reliable) or when none are available, a fresh fallen log. If a log is used, its bark is stripped before being used. The waterbar is set at a diagonal ditch on sloped terrain. Smaller rocks are set around it to ensure it won't move or slip when stepped on. A drainage is dug in front of it and diverts off the trail to guarantee no standing water.
 
 [![Setting a waterbar](http://farm3.staticflickr.com/2814/9237872812_3731505ab9.jpg "Setting a waterbar")](http://www.flickr.com/photos/95201160@N04/9237872812/in/set-72157634544027816)
 
