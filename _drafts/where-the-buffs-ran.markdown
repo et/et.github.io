@@ -18,6 +18,8 @@ The Tank (Teller Farm South Trailhead, East Boulder Trail, East Arapahoe)
 
 ## Flagstaff Mountain
 
+Map: https://www-static.bouldercolorado.gov/docs/flagstaff-rd-trail-map-1-201307151402.pdf
+
 Ascending Flagstaff is a rite of passage -- 1500 feet of elevation gain in less than two miles.
 The best approach is to start at Chautauqua Park up Baseline Road and run the Baseline trail
 (parallel to the road). Target Gregory Canyon and start the grind. The trail is steep and technical.
