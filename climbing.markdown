@@ -9,8 +9,8 @@ permalink: /climbing/index.html
     <p>Climbing has become a recent passion of mine. From taking the sharp end on a pumpy sport route to the engineering problems that present themselves in an all day multi-pitch, climbing had me hooked instantly.</p>
 
     <ul>
-      <li>Trad: Lead 5.8, Follow 5.10d</li>
-      <li>Sport: Lead 5.10c, Follow 5.11a</li>
+      <li>Trad: Lead 5.10a, Follow 5.11a</li>
+      <li>Sport: Lead 5.11b, Follow 5.12a</li>
     </ul>
   </div>
   <div class="large-8 columns">
