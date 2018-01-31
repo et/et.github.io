@@ -1,19 +1,65 @@
----
-layout: default
-title: Eric's thoughts
----
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Eric Thomas</title>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.0/js/all.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+  <!-- Bulma Version 0.6.0 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.0/css/bulma.min.css" integrity="sha256-HEtF7HLJZSC3Le1HcsWbz1hDYFPZCqDhZa9QsCgVUdw=" crossorigin="anonymous" />
+  <link rel="stylesheet" type="text/css" href="./css/site.css">
+</head>
+<body>
+  <section class="hero is-success is-fullheight">
+    <div class="hero-body">
+      <div class="container has-text-centered">
+        <div class="column is-6 is-offset-3">
+          <h1 class="title">
+            Eric Thomas
+          </h1>
+          <h2 class="subtitle">
+             Passionate full-stack engineer filled with charisma and a dedication for project completion.
+          </h2>
+          <nav class="level">
+            <p class="level-item has-text-centered">
+              <a target="_blank" href="https://docs.google.com/document/d/1NAqSFZ51SxUOYjudmW7lQejG__IbMAlsl935vwKe8I0/edit?usp=sharing">
+                <span class="icon is-large">
+                  <i class="far fa-3x fa-file-alt"></i>
+                </span>
+              </a>
+            </p>
 
-{% for post in site.posts %}
-  <div class="row panel">
-    <div class="large-2 columns">
-      <h4 class="subheader">
-        {{ post.date | date_to_string }}
-      </h4>
+            <p class="level-item has-text-centered">
+              <a target="_blank" href="https://github.com/et">
+                <span class="icon is-large">
+                  <i class="fab fa-3x fa-github"></i>
+                </span>
+              </a>
+            </p>
+
+            <p class="level-item has-text-centered">
+              <a target="_blank" href="https://www.linkedin.com/in/eric-l-m-thomas/">
+                <span class="icon is-large">
+                  <i class="fab fa-3x fa-linkedin"></i>
+                </span>
+              </a>
+            </p>
+
+            <p class="level-item has-text-centered">
+              <a target="_blank" href="https://www.strava.com/athletes/ericthomas">
+                <span class="icon is-large">
+                  <i class="fab fa-3x fa-strava"></i>
+                </span>
+              </a>
+            </p>
+
+
+          </nav>
+        </div>
+      </div>
     </div>
-    <div class="large-10 columns">
-      <h4 class="subheader">
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </h2>
-    </div>
-  </div>
-{% endfor %}
+  </section>
+</body>
+</html>
